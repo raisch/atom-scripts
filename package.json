@@ -1,0 +1,18 @@
+{
+  "name": "atom-scripts",
+  "main": "./lib/atom-scripts",
+  "version": "0.0.0",
+  "description": "This package allow you to bind javascript functions to commands and key bindings just by writing those in a file.",
+  "keywords": [
+    "script",
+    "macro",
+    "run",
+    "command"
+  ],
+  "repository": "https://github.com/GCSBOSS/atom-scripts.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
