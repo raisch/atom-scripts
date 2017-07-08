@@ -1,7 +1,7 @@
 {
   "name": "atom-scripts",
   "main": "./lib/atom-scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This package allow you to bind javascript functions to commands and key bindings just by writing those in a file.",
   "keywords": [
     "script",
